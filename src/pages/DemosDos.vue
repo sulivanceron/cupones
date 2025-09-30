@@ -1,7 +1,8 @@
 <template>
   <q-page padding class="bg-grey-2">
     <div class="q-mx-auto q-pa-md" style="max-width: 900px">
-      <div class="text-h5 text-weight-bold text-center q-mb-md">Cupones sotao</div>
+      <div class="text-h5 text-weight-bold text-center q-mb-md">CUPONES SOTANO</div>
+      <div class="text-h5 text-weight-bold text-center q-mb-md">CUPONES SOTANO</div>
 
       <q-card flat bordered class="bg-white q-pa-md">
         <q-form ref="formRef" @submit.prevent="onSubmit">
